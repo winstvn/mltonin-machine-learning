@@ -1,6 +1,6 @@
 # mltonin-machine-learning
 <p align="center">
-  <img src="logo.jpg">
+  <img src="banner.jpg">
 </p>
 
 MLTonin was the recipient of Electric City Hacks IV's Best Machine Learning Hack and Wolfram's Best Use of Wolfram API award.
