@@ -1,3 +1,9 @@
+###################################
+## PREPROCESSING:
+## This script creates the bitmap + target JSON
+##   to feed into the model.
+###################################
+
 import json
 from imager import Imager
 from os import listdir, getcwd, walk
